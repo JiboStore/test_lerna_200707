@@ -1,0 +1,31 @@
+{
+  "name": "tidbits",
+  "version": "0.0.0",
+  "description": "TIDBITS",
+  "keywords": [
+    "TIDBITS",
+    "SNACK",
+    "APP"
+  ],
+  "author": "Hakim Hauston <hakim.hauston@storms.com>",
+  "homepage": "http://www.tidbitsnack.com/",
+  "license": "ISC",
+  "main": "lib/tidbits.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiboStore/test_lerna_200707.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/JiboStore/test_lerna_200707/issues"
+  }
+}
